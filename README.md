@@ -10,7 +10,7 @@ My main tech stack is spring, javascript and java.
 
 #### Fun Facts:
 
-  - I grew up speaking three languages
+  - I grew up speaking three languages and now speak (more or less) six
   - I love stuffed vine leaves
   - Dragonball is my favourite anime
   - Hobbies: gym, 8-ball poolbillard, anime
