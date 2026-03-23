@@ -6,7 +6,7 @@ I create and build whatever i can imagine.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
-My main tech stack is spring, javascript and java.
+My main tech stack is spring, docker, html, css, javascript and java.
 
 #### Fun Facts:
 
