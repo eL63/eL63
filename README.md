@@ -1,12 +1,14 @@
 # Hey there! 👋
 
-I'm eL, an application development specialist based in Germany.
+I'm eL, an application development retrainer based in Germany.
 
 I create and build whatever i can imagine.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
 My main tech stack is spring, docker, html, css, javascript and java.
+
+I' am looking for an interesting internship based in Augsburg or near to Munich.
 
 #### Fun Facts:
 
