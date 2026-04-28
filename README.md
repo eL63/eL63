@@ -6,7 +6,7 @@ I create and build whatever i can imagine.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
-My main tech stack is spring, docker, html, css, javascript and java.
+My main tech stack is spring, docker, html, css, c#, javascript and java.
 
 I' am looking for an interesting internship based in Augsburg or near to Munich.
 
